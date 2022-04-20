@@ -10,5 +10,5 @@ variable "project" {
 
 variable "sns_email_list" {
   type = map
-  description = "list of emails to subscribe to sns topic for alarm notifications"
+  description = "list of emails that will receive the alarm notifications"
 }
