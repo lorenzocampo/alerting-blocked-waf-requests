@@ -1,6 +1,6 @@
 # Alerting AWS WAF blocked requests
 
-Terraform code that creates a solution to alert when a request is blocked in AWS WAF. It implements the following elements:
+Terraform code that creates a solution to alert when a request is blocked by AWS WAF. It implements the following elements:
 
 * **[Cloudwatch Log Group]**.
 * **[Cloudwatch Metric Filter]**.
